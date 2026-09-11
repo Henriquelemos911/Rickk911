@@ -23,27 +23,6 @@ Meu objetivo é criar software simples de entender, fácil de manter e pronto pa
 
 ---
 
-🚀 Active Project
-
-[Continuum](https://github.com/lemavos/continuum)
-
-Continuum is a system designed to reduce friction between thinking, doing, and tracking progress over time.
-
-Instead of separating notes, timers, and trackers, it’s built around **entities** — where everything you do (projects, topics, activities) lives and connects naturally.
-
-The backend focuses on:
-
-- Entity-based data modeling (flexible, scalable core)
-- Time tracking and contextual logging
-- Authentication & user systems (JWT-based flows)
-- Clean, production-oriented API design
-
-More than just a backend project, Continuum is where I explore how real-world usage can shape system design.
-
-It’s my main execution ground — turning ideas into structured, scalable systems.
-
----
-
 ⚙️ Tech Stack
 
 <p align="center">
